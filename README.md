@@ -2,4 +2,4 @@
 This a Simple ML Movie Recommendation.
 
 # Tree Visualization
-<img src = '' />
+<img src = 'tree_graph.svg' />
